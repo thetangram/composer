@@ -1,0 +1,8 @@
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/aws/aws-lambda-go"
+
+[[dependencies]]
+  branch = "master"
+  name = "github.com/gorilla/mux"

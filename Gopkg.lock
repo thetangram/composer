@@ -1,0 +1,19 @@
+memo = "e6980dfc6f30bdeff6601f3545d29dd62d05c91f31f86ffdcfbeee31b18d1693"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/aws/aws-lambda-go"
+  packages = ["events","lambda","lambda/messages","lambdacontext"]
+  revision = "401379806f2e8d4aed0b7730918a1b6ff8c04c72"
+
+[[projects]]
+  name = "github.com/gorilla/context"
+  packages = ["."]
+  revision = "1ea25387ff6f684839d82767c1733ff4d4d15d0a"
+  version = "v1.1"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/gorilla/mux"
+  packages = ["."]
+  revision = "c0091a029979286890368b4c7b301261e448e242"
